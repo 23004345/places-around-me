@@ -226,12 +226,12 @@ Lodging refers to the use of a short-term dwelling, usually by renting the livin
 </html>
 ```
 ## Output:
-![map](./static/images/map.jpeg)
-![busstand](./static/images/busstand.png)
-![cinemas](./static/images/cinemas.png)
-![gym](./static/images/gym.png)
-![jwellery](./static/images/jwellery.png)
-![lodge](./static/images/lodge.png)
+![map](./map.jpeg)
+![busstand](./busstand.png)
+![cinemas](./cinemas.png)
+![gym](./gym.png)
+![jwellery](./jwellery.png)
+![lodge](./lodge.png)
 
 ## Result:
 The program for implementing image map is executed successfully
